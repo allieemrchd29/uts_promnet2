@@ -200,9 +200,9 @@
       <div class="container">
           <div class="card cart-card shadow-lg">
               <div class="card-header">
-                  <h3 class="mb-0">
+                  <h4 class="mb-0">
                         <i class="bi bi-cart"></i> Keranjang Belanja
-                  </h3>
+                  </h4>
               </div>
               <div class="card-body">
                   <div id="cart-items">
